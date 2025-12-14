@@ -1,3 +1,4 @@
+```
 \documentclass[12pt]{article}
 \usepackage[a4paper,margin=2.5cm]{geometry}
 \usepackage{amsmath,amssymb,physics}
@@ -133,3 +134,4 @@ Answer briefly (about equal length for each part):
 \end{enumerate}
 
 \end{document}
+```
